@@ -8,6 +8,14 @@
 - 发现变化 → LLM 自动总结变化内容
 - 发送邮件通知，秒收告警
 
+- ## 功能截图
+
+### 终端监控运行
+![终端](images/demo-terminal.png)
+
+### 邮件告警通知
+![邮件](images/demo-email.png)
+
 ## 技术栈
 
 Python / Requests / BeautifulSoup / DeepSeek API / SMTP
